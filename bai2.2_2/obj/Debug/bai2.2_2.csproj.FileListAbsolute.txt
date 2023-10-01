@@ -1,0 +1,7 @@
+G:\C#\NguyenAnhHieuC#_2117110152\bai2.2_2\obj\Debug\bai2.2_2.csproj.AssemblyReference.cache
+G:\C#\NguyenAnhHieuC#_2117110152\bai2.2_2\obj\Debug\bai2.2_2.csproj.CoreCompileInputs.cache
+G:\C#\NguyenAnhHieuC#_2117110152\bai2.2_2\bin\Debug\bai2.2_2.exe.config
+G:\C#\NguyenAnhHieuC#_2117110152\bai2.2_2\bin\Debug\bai2.2_2.exe
+G:\C#\NguyenAnhHieuC#_2117110152\bai2.2_2\bin\Debug\bai2.2_2.pdb
+G:\C#\NguyenAnhHieuC#_2117110152\bai2.2_2\obj\Debug\bai2.2_2.exe
+G:\C#\NguyenAnhHieuC#_2117110152\bai2.2_2\obj\Debug\bai2.2_2.pdb
